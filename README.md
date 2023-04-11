@@ -5,8 +5,8 @@ Today i coded a new interesting program in Rust a language that i am currently l
 so please don't judge my code :)
 
 ### Purpose:
-This program will allow you to generate some FAKE credit card number with cvv obviously 
-all this credit card number are fake and I don't encourage you to use them, use this only 
+This program will allow you to generate some FAKE credit card numbers with cvv obviously 
+all this credit card numbers are fake and I don't encourage you to use them, use this only 
 for educational purposes!
 
 ### How to compile it:
