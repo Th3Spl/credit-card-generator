@@ -10,7 +10,7 @@ all this credit card number are fake and I don't encourage you to use them, use 
 for educational purposes!
 
 ### How to compile it:
-Firstable you have to install the rust compiler `From Here`(https://www.rust-lang.org/tools/install)
+Firstable you have to install the rust compiler [`From Here`](https://www.rust-lang.org/tools/install)
 and then you have to create a new project with: cargo new projectName
 then you have to open the main.rs file that you'll find in the src directory of your project and you 
 have to paste the code from the file which i've uploaded.
